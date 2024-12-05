@@ -1,0 +1,6 @@
+@Techcareer.WebApi_HostAddress = http://localhost:5058
+
+GET {{Techcareer.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
